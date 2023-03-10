@@ -1,4 +1,4 @@
-# Domains_Scraper 🔎
+# Domain Scraper 🔎
 
 This is a JavaScript script that scrapes a web page for domain names, writes the domain names to a text file, and triggers a download of the file.
 Here's a breakdown of what the script does:
